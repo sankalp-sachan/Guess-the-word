@@ -112,7 +112,7 @@ let wordList = [
         hint: "a relational database system"
     },
     {
-        word: "nepal",
+        word: "india",
         hint: "developing country name"
     },
     {
@@ -172,7 +172,7 @@ let wordList = [
         hint: "small piece of metal"
     },
     {
-        word: "egypt",
+        word: "india",
         hint: "a country name"
     },
     {
