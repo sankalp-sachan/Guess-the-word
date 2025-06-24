@@ -78,3 +78,5 @@ window.addEventListener("load", () => {
         TypeText.focus();
     }
 });
+
+alert('please use only small letters')
