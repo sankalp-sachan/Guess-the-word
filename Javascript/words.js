@@ -194,9 +194,5 @@ let wordList = [
     {
         word: "rain",
         hint: "related to a water"
-    },
-    {
-        word: "Sankalp",
-        hint: "programmer"
     }
 ]
